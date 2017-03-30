@@ -1,2 +1,2 @@
-this is first file
+this is test for merge conflict
 
