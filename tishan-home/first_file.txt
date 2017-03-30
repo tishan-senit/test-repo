@@ -1,2 +1,2 @@
-this is test for merge conflict
+this is test my repo
 
